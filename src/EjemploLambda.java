@@ -18,7 +18,7 @@ public class EjemploLambda {
         int num = suma.sumaNumbers(8, 8);
         System.out.println(num);
 
-        IreadNumero muestra
+        IreadNumero muestra;
     }
 
 }
